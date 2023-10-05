@@ -31,3 +31,9 @@ Add the command flags --api and --listen if you haven't already to CMD_FLAGS.TXT
 run Start.bat
 
 If two terminals open up then it works. Enjoy speaking to your new "assistant".
+
+## Roadmap
+- [x] Make the dang code work
+- [ ] possibly convert to extension?
+- [ ] Add more options for voice recognition models (i.e. not just vosk)
+- [ ] ~~conquer the world~~
