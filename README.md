@@ -5,8 +5,11 @@ An voice interface for use with Oogabooga's text-generation-webui.
 
 ## Requirements
 > python3
+
 > sounddevice
+
 > pyttsx3
+
 > vosk
 
 ## Details
